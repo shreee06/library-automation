@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Student data and results
+input/
+output/
+email_input/
+reporta_pappers/
+test_log.xlsx
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Credentials
+credentials.json
+token.json
+token_*.json
